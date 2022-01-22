@@ -1,7 +1,15 @@
 - 👋 Buenas!! Soy @ncapuchado
 - 👀 Estoy interesado en Linux mayormente (LXC, Proxmox, KVM, OpenWRT, LineageOS, Debian, Arch, ...) y todo lo que le rodea, como Docker, Electrónic y, en general, la tecnología y el código abierto.
 
-- 📫 Me podéis contactar a ncapuchado@gmail.com
+- 📫 Me podéis contactar por: 
+- 
+- EMAIL:      ncapuchado@gmail.com
+- YOUTUBE:    ncapuchado
+- INSTAGRAM:  ncapuchado
+- TWITTER:    ncapuchado
+- FLICKR:     ncapuchado
+- 500PX:      ncapuchado
+
 
 <!---
 ncapuchado/ncapuchado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
