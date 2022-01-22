@@ -1,8 +1,10 @@
 - 👋 Buenas!! Soy @ncapuchado
-- 👀 Estoy interesado en Linux mayormente (LXC, Proxmox, KVM, OpenWRT, LineageOS, Debian, Arch, ...) y todo lo que le rodea, como Docker, Electrónic y, en general, la tecnología y el código abierto.
+
+- 👀 Me dedico principalmente a la Administración de Sistemas. Tengo cierta tendencia a usar Linux constantemente. (LXC, Proxmox, KVM, OpenWRT, LineageOS, Debian, Arch, ...) y todo lo que le rodea, como Docker, Electrónic y, en general, la tecnología y el código abierto.
+-
 
 - 📫 Me podéis contactar por: 
-- 
+
 - EMAIL:      ncapuchado@gmail.com
 - YOUTUBE:    ncapuchado
 - INSTAGRAM:  ncapuchado
